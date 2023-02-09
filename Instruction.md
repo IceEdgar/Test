@@ -20,4 +20,4 @@
 
 *git checkout хэш_коммита* - перейти к указанному коммиту
 
-*git checkout master* - перейти к актуальному состоянию ветки master
+*git checkout master* - перейти к актуальному состоянию ветки master![Alt text](picture.jpg) Веселая картинка
