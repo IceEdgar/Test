@@ -20,9 +20,12 @@
 
 *git checkout хэш_коммита* - перейти к указанному коммиту
 
-*git checkout master* - перейти к актуальному состоянию ветки master![Funy picture](picture.jpg) Веселая картинка
+*git checkout master* - перейти к актуальному состоянию ветки master
+
+
+![Funy picture](picture.jpg) Веселая картинка
 
 
 
-![Click Click](1.jpg)(https://habr.com/ru/post/542616/)
+![Click Click](1.jpg) https://habr.com/ru/post/541258/
 
